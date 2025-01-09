@@ -1,0 +1,10 @@
+asgiref
+sqlparse
+Pillow
+python-decouple
+social-auth-app-django
+django-extensions
+werkzeug
+pyOpenSSL
+requests
+easy-thumbnails
